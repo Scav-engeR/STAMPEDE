@@ -1,0 +1,13 @@
+lolcat
+pyfiglet
+rich
+click
+tabulate
+bs4
+argparse
+requests
+datetime
+pythreading
+thread6
+colorama
+termcolor
