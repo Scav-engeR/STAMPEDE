@@ -14,7 +14,7 @@
 ### 🎓 **STRICTLY FOR EDUCATIONAL PURPOSES** 🎓
 *A comprehensive vulnerability scanner designed for cybersecurity education and authorized security assessments*
 
-[![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)](https://python.org)
+[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-Educational%20Use%20Only-red.svg)](#license)
 [![Security](https://img.shields.io/badge/Purpose-Educational%20Security%20Research-green.svg)](#educational-purpose)
 
@@ -344,7 +344,7 @@ The author assumes no responsibility for misuse or illegal activities.
 
 ## 🔗 **Important Links**
 
-- **🏠 Repository:** [github.com/scav-enger/STAMPEDE](https://github.com/scav-enger/STAMPEDE)
+- **🏠 Repository:** [github.com/Scav-engeR/STAMPEDE](https://github.com/Scav-engeR/STAMPEDE)
 - **📚 OWASP:** [owasp.org](https://owasp.org)
 - **🎯 PortSwigger Academy:** [portswigger.net/web-security](https://portswigger.net/web-security)
 - **🛡️ SANS Security:** [sans.org](https://sans.org)
