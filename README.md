@@ -132,11 +132,11 @@ STAMPEDE is an educational vulnerability scanner designed to help cybersecurity 
 
 ### **Prerequisites**
 ```bash
-# Python 3.6 or higher
+# Preferably Python 3.9 or higher
 python3 --version
 
 # Required Python packages
-pip3 install requests urllib3
+python3.x -m pip install -r requirements.txt
 ```
 
 ### **Optional: Rainbow Colors with Lolcat**
@@ -180,6 +180,8 @@ python3 STAMPEDE.py -f targets.txt
 
 ### **Command Line Options**
 ```bash
+python3 STAMPEDE.py
+or
 python3 STAMPEDE.py -f <target_file>
 ```
 
