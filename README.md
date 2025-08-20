@@ -18,7 +18,7 @@
 [![License](https://img.shields.io/badge/License-Educational%20Use%20Only-red.svg)](#license)
 [![Security](https://img.shields.io/badge/Purpose-Educational%20Security%20Research-green.svg)](#educational-purpose)
 
-**Created by:** [@scav-enger](https://github.com/scav-enger) | **Telegram:** @Ghidorah
+**Created by:** [@scav-enger](https://github.com/Scav-engeR) | **Telegram:** @Ghiddra
 
 </div>
 
@@ -158,7 +158,7 @@ gem install lolcat
 ### **Quick Start**
 ```bash
 # Clone the repository
-git clone https://github.com/scav-enger/STAMPEDE.git
+git clone https://github.com/Scav-engeR/STAMPEDE.git
 cd STAMPEDE
 
 # Make executable
@@ -169,6 +169,8 @@ echo "http://testphp.vulnweb.com" > targets.txt
 echo "http://demo.testfire.net" >> targets.txt
 
 # Run the scanner (EDUCATIONAL USE ONLY!)
+python3 STAMPEDE.py
+or
 python3 STAMPEDE.py -f targets.txt
 ```
 
@@ -179,14 +181,6 @@ python3 STAMPEDE.py -f targets.txt
 ### **Command Line Options**
 ```bash
 python3 STAMPEDE.py -f <target_file>
-```
-
-### **Target File Format**
-Create a text file with one URL per line:
-```
-http://testsite1.com
-https://testsite2.com
-http://192.168.1.100
 ```
 
 ### **Educational Testing Environments**
